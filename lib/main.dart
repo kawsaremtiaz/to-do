@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return const MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'TO DO',
+      title: 'TO DO Note',
       home: HomePage(),
     );
   }
